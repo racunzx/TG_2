@@ -1,13 +1,13 @@
 
 <p align="center"> <img src="http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-35/512/NFSShift-logo-2-icon.png" width="512">
-<h1><p align="center">NFS-Bot
+<h1><p align="center">TG-Bot
 <h1><p align="center">We are best =|
 
 <h3 align="left"> <strong>install :</strong>
 </h3>
 
 <pre>
-<span>git clone https://github.com/behradhg/TeleNfs.git</span>
+<span>git clone https://github.com/sina1903/TG_2.git</span>
 <span>cd TeleNfs</span>
 <span>chmod 7777 ./bot.sh</span>
 <span>./bot.sh -tg</span>
@@ -51,16 +51,9 @@
  superband | can`t join all bots groups.
 
 # Special thanks to
-[@BugsCreator](https://telegram.me/BugsCreator)
+[@MR_me_ir](https://telegram.me/MR_me_IR)
 
-
-[Butler-bot](https://github.com/RememberTheAir/GroupButler)
-
-
-[@Nero_Dev](https://telegram.me/Nero_Dev)
-
-
-[rizaumami](https://github.com/rizaumami)
+ 
 
 
 * * *
